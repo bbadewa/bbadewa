@@ -1,6 +1,6 @@
-## ℹ️ Hey! You've landed on the page of bbadewa!
+# ℹ️ Hey! You've landed on the page of bbadewa!
 
-### Uh, who is this?
+## Uh, who is this?
 
 I work on stuff like:
 
